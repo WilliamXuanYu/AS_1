@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApplication</string>
     <string name="hello">我喜欢Android开发</string>
+    <string name="helloA">你好Android</string>
+    <string name="china">chinese</string>
+    <string name="english">english</string>
 </resources>
